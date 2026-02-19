@@ -7,5 +7,5 @@
 
 ### 📊 Statistics
 
-![isa-zka's Stats](https://github-readme-stats.vercel.app/api?username=isa-zka&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
 ![isa-zka's Streak](https://github-readme-streak-stats.herokuapp.com/?user=isa-zka&theme=tokyonight&hide_border=true)
